@@ -1,4 +1,6 @@
-Project Overview
+Walmart Sales Data Analysis 
+                     SQL / PostgreSQL Exploratory Analysis Project Dataset            
+
 
 <img width="1775" height="889" alt="walmart_project_infographic" src="https://github.com/user-attachments/assets/de934b1a-ecf2-4fa5-acbc-edf0ff2c608d" />
 
